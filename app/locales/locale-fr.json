@@ -1,0 +1,18 @@
+{
+  "TRANSLATION" : {
+    "ENGLISH" : "English",
+    "FRENCH" : "Fran&ccedil;ais"
+  },
+  "NAVBAR" : {
+    "SIGNUP" : "Cr&eacute;er un compte",
+    "LOGOUT" : "Déconnexion"
+  },
+  "HOME" : {
+    "LOGIN" : {
+      "LOGIN" : "Se Connecter",
+      "USERNAME_OR_EMAIL_ENTER" : "Renseigner votre email",
+      "PASSWORD_ENTER" : "Renseigner votre mot de passe",
+      "REMEMBER_ME" : "Se souvenir de moi"
+    }
+  }
+}
